@@ -1,0 +1,8 @@
+*.json
+!sample.service_account_auth.json
+
+*.ini
+!sample.config.ini
+
+chromedriver
+.vscode
